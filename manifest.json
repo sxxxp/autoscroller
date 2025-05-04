@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Scroll to Bottom",
+  "version": "1.0",
+  "description": "Automatically scrolls the page to the bottom.",
+  "permissions": ["scripting", "storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon-128.png",
+    "48": "icon-48.png",
+    "16": "icon-16.png"
+  }
+}
