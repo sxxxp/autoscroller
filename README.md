@@ -8,4 +8,4 @@
 - Enjoy It!
 - Can Modify ms/fps, px/%
 
-![Sample Image](./sample.png)
+![Sample Image](img/sample.png)
